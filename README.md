@@ -21,7 +21,7 @@ extendable utilities for testing
   * [Finally](#finally)
   * [Nock](#nock)
   * [Environment Variables](#environment-variables)
-  * [Run](#run)
+  * [Do](#do)
   * [Add](#add)
   * [Stdout/Stderr Mocking](#stdoutstderr-mocking)
   * [Done](#done)
